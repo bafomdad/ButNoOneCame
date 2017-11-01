@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bnoc",
+  "name": "But No One Came",
+  "description": "But nobody came.",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["bafomdad"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
